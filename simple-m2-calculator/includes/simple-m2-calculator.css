@@ -1,0 +1,37 @@
+#price_calculator-1 {
+    border: none;
+}
+#price_calculator-2 {
+    border: none;
+}
+.amount_needed{
+    text-align: right;
+    float:right; 
+}
+#area_needed{
+    width:50%;
+}
+.td-area {
+    text-align: right;
+}
+.total_price {
+    text-align: right;
+}
+#price_calculator-1 tr td {
+    border: none;
+}
+
+#price_calculator-2 tr td {
+    border: none;
+}
+
+.total_price {
+    font-weight: 800;
+}
+.price {
+    display: inline !important;
+}
+
+.woocommerce-variation-price {
+    display: inline !important;
+}
